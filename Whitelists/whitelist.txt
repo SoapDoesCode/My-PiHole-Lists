@@ -1,0 +1,2 @@
+# Fixes any YouTube history issues
+s.youtube.com
